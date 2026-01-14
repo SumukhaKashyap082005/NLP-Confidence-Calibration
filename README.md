@@ -82,3 +82,18 @@ evaluation.
 It highlights the need for confidence-aware assessment in deploying
 language models responsibly.
 
+## 10. Dataset Access
+
+The dataset used in this project exceeds GitHub’s file size limits and
+is therefore not included in the repository.
+
+To reproduce the experiments, download the dataset from the official
+source:
+
+Jigsaw Toxic Comment Classification Dataset:
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+Place the downloaded `train.csv` file inside the `data/` directory.
+
+
+
